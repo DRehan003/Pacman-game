@@ -1,6 +1,6 @@
-## Pacman MVP
+## Pacman
 
-`Pacman MVP` is a small, browser-based Pac-Man-inspired game built with **HTML5 Canvas** and vanilla **JavaScript**. It features a tile-based arena, a controllable Pac-Man, and roaming ghosts with simple intersection-based decision making.
+`Pacman` is a small, browser-based Pac-Man-inspired game built with **HTML5 Canvas** and vanilla **JavaScript**. It features a tile-based arena, a controllable Pac-Man, and roaming ghosts with simple intersection-based decision making.
 
 ### What the game does
 
